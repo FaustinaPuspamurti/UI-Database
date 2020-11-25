@@ -1,0 +1,12 @@
+body {
+	margin: 0; 
+	font-family: sans-serif;
+}
+.header {
+	margin: 20px; 
+	color: black; 
+	height: 70px;
+}
+.logo {
+	float: left;
+}
